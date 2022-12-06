@@ -1,1 +1,1 @@
-Cours pour apprendre les bases du langages PHP 
+Cours avec l'école Doranco sur les bases du langage PHP 
